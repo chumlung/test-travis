@@ -1,0 +1,3 @@
+script:
+        ssh_creds
+        echo $ssh_creds
